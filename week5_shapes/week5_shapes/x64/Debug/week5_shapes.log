@@ -1,0 +1,242 @@
+﻿  Arrow.cpp
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Arrow.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Arrow.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Arrow.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Arrow.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Arrow.cpp')
+      C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(8910,10):
+          while compiling class template 'cimg_library::CImg'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(36739,18):
+          see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(28055,73):
+          see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16406,12):
+          while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13812,12):
+          while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14591,21):
+          while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14242,25):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13904,16):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16416,7):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Circle.cpp
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Circle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Circle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Circle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Circle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Circle.cpp')
+      C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(8910,10):
+          while compiling class template 'cimg_library::CImg'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(36739,18):
+          see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(28055,73):
+          see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16406,12):
+          while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13812,12):
+          while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14591,21):
+          while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14242,25):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13904,16):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16416,7):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  main.cpp
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'main.cpp')
+      C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(8910,10):
+          while compiling class template 'cimg_library::CImg'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(36739,18):
+          see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(28055,73):
+          see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16406,12):
+          while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13812,12):
+          while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14591,21):
+          while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14242,25):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13904,16):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16416,7):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Menu.cpp
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Menu.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Menu.cpp')
+      C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(8910,10):
+          while compiling class template 'cimg_library::CImg'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(36739,18):
+          see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(28055,73):
+          see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16406,12):
+          while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13812,12):
+          while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14591,21):
+          while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14242,25):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13904,16):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16416,7):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Rectangle.cpp
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Rectangle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Rectangle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Rectangle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Rectangle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Rectangle.cpp')
+      C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(8910,10):
+          while compiling class template 'cimg_library::CImg'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(36739,18):
+          see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(28055,73):
+          see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16406,12):
+          while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13812,12):
+          while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14591,21):
+          while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14242,25):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13904,16):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16416,7):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Triangle.cpp
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50784,21): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50804,23): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,44): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(50821,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+  (compiling source file 'Triangle.cpp')
+  
+C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16): warning C4319: '~': zero extending 'unsigned long' to 'double' of greater size
+  (compiling source file 'Triangle.cpp')
+      C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14592,16):
+      the template instantiation context (the oldest one first) is
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(8910,10):
+          while compiling class template 'cimg_library::CImg'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(36739,18):
+          see reference to class template instantiation 'cimg_library::CImg<char>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(28055,73):
+          see reference to class template instantiation 'cimg_library::CImg<float>' being compiled
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16406,12):
+          while compiling class template member function 'double cimg_library::CImg<float>::eval(const char *const ,const double,const double,const double,const double) const'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13812,12):
+          while compiling class 'cimg_library::CImg<float>::_cimg_math_parser'
+          C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14591,21):
+          while compiling class template member function 'double cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not(cimg_library::CImg<float>::_cimg_math_parser &)'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(14242,25):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::mp_bitwise_not' in 'cimg_library::CImg<float>::_cimg_math_parser::compile'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(13904,16):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::compile' in 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(16416,7):
+              see the first reference to 'cimg_library::CImg<float>::_cimg_math_parser::_cimg_math_parser' in 'cimg_library::CImg<float>::eval'
+              C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\CImg.h(51302,5):
+              see the first reference to 'cimg_library::CImg<float>::eval' in 'cimg_library::cimg::eval'
+  
+  Generating Code...
+  week5_shapes.vcxproj -> C:\Users\Cyber_User\Documents\Magshimim\year2\semesterA\CPP\week5\Ekronot-Ex05-hartk7717\week5_shapes\x64\Debug\week5_shapes.exe
